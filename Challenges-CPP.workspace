@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Challenges-CPP" Database="" Version="10000">
+  <Project Name="week-01-1" Path="week-01/week-01.project" Active="No"/>
+  <Project Name="week-01-2" Path="week-01-2/week-01-2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="week-01-1" ConfigName="Debug"/>
+      <Project Name="week-01-2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="week-01-1" ConfigName="Release"/>
+      <Project Name="week-01-2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
