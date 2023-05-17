@@ -12,7 +12,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="H:\Challenges-CPP\Challenges-CPP\week-01-2\main.cpp" Name="FileName"/>
-      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="11" Name="FirstVisibleLine"/>
       <int Value="13" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
