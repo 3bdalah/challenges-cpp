@@ -7,7 +7,8 @@
   <Project Name="A_Anton_and_Danik" Path="A_Anton_and_Danik/A_Anton_and_Danik.project" Active="No"/>
   <Project Name="A_Bear_and_Big_Brother" Path="A_Bear_and_Big_Brother/A_Bear_and_Big_Brother.project" Active="No"/>
   <Project Name="A_Team" Path="A_Team/A_Team.project" Active="No"/>
-  <Project Name="A_Beautiful_Matrix" Path="A_Beautiful_Matrix/A_Beautiful_Matrix.project" Active="Yes"/>
+  <Project Name="A_Beautiful_Matrix" Path="A_Beautiful_Matrix/A_Beautiful_Matrix.project" Active="No"/>
+  <Project Name="A_Gravity_Flip" Path="A_Gravity_Flip/A_Gravity_Flip.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -19,6 +20,7 @@
       <Project Name="A_Bear_and_Big_Brother" ConfigName="Debug"/>
       <Project Name="A_Team" ConfigName="Debug"/>
       <Project Name="A_Beautiful_Matrix" ConfigName="Debug"/>
+      <Project Name="A_Gravity_Flip" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -30,6 +32,7 @@
       <Project Name="A_Bear_and_Big_Brother" ConfigName="Release"/>
       <Project Name="A_Team" ConfigName="Release"/>
       <Project Name="A_Beautiful_Matrix" ConfigName="Release"/>
+      <Project Name="A_Gravity_Flip" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
