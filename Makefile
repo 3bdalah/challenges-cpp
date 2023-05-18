@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ A_Gravity_Flip - Debug ]----------"
-	@cd "A_Gravity_Flip" && "$(MAKE)" -f  "A_Gravity_Flip.mk"
+	@echo "----------Building project:[ A_Petya_and_Strings - Debug ]----------"
+	@cd "A_Petya_and_Strings" && "$(MAKE)" -f  "A_Petya_and_Strings.mk"
 clean:
-	@echo "----------Cleaning project:[ A_Gravity_Flip - Debug ]----------"
-	@cd "A_Gravity_Flip" && "$(MAKE)" -f  "A_Gravity_Flip.mk" clean
+	@echo "----------Cleaning project:[ A_Petya_and_Strings - Debug ]----------"
+	@cd "A_Petya_and_Strings" && "$(MAKE)" -f  "A_Petya_and_Strings.mk" clean
