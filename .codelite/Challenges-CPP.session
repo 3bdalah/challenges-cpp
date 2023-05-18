@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="H:\Challenges-CPP\Challenges-CPP\Challenges-CPP.workspace">
-  <int Value="2" Name="m_selectedTab"/>
+  <int Value="0" Name="m_selectedTab"/>
   <wxString Value="H:\Challenges-CPP\Challenges-CPP\Challenges-CPP.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="H:\Challenges-CPP\Challenges-CPP\week-01\main.cpp" Name="FileName"/>
+      <wxString Value="H:\Challenges-CPP\Challenges-CPP\A_Team\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="H:\Challenges-CPP\Challenges-CPP\week-01-2\main.cpp" Name="FileName"/>
-      <int Value="11" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="H:\Challenges-CPP\Challenges-CPP\week-02-01\main.cpp" Name="FileName"/>
-      <int Value="2" Name="FirstVisibleLine"/>
-      <int Value="7" Name="CurrentLine"/>
+      <int Value="16" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

@@ -5,7 +5,9 @@
   <Project Name="week-02-01" Path="week-02-01/week-02-01.project" Active="No"/>
   <Project Name="A_Vanya_and_Fence" Path="A_Vanya_and_Fence/A_Vanya_and_Fence.project" Active="No"/>
   <Project Name="A_Anton_and_Danik" Path="A_Anton_and_Danik/A_Anton_and_Danik.project" Active="No"/>
-  <Project Name="A_Bear_and_Big_Brother" Path="A_Bear_and_Big_Brother/A_Bear_and_Big_Brother.project" Active="Yes"/>
+  <Project Name="A_Bear_and_Big_Brother" Path="A_Bear_and_Big_Brother/A_Bear_and_Big_Brother.project" Active="No"/>
+  <Project Name="A_Team" Path="A_Team/A_Team.project" Active="No"/>
+  <Project Name="A_Beautiful_Matrix" Path="A_Beautiful_Matrix/A_Beautiful_Matrix.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -15,6 +17,8 @@
       <Project Name="A_Vanya_and_Fence" ConfigName="Debug"/>
       <Project Name="A_Anton_and_Danik" ConfigName="Debug"/>
       <Project Name="A_Bear_and_Big_Brother" ConfigName="Debug"/>
+      <Project Name="A_Team" ConfigName="Debug"/>
+      <Project Name="A_Beautiful_Matrix" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -24,6 +28,8 @@
       <Project Name="A_Vanya_and_Fence" ConfigName="Release"/>
       <Project Name="A_Anton_and_Danik" ConfigName="Release"/>
       <Project Name="A_Bear_and_Big_Brother" ConfigName="Release"/>
+      <Project Name="A_Team" ConfigName="Release"/>
+      <Project Name="A_Beautiful_Matrix" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
