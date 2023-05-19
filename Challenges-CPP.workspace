@@ -12,7 +12,9 @@
   <Project Name="A_Petya_and_Strings" Path="A_Petya_and_Strings/A_Petya_and_Strings.project" Active="No"/>
   <Project Name="A_Word" Path="A_Word/A_Word.project" Active="No"/>
   <Project Name="A_Word_Capitalization" Path="A_Word_Capitalization/A_Word_Capitalization.project" Active="No"/>
-  <Project Name="A_Magnets" Path="A_Magnets/A_Magnets.project" Active="Yes"/>
+  <Project Name="A_Magnets" Path="A_Magnets/A_Magnets.project" Active="No"/>
+  <Project Name="A_Sereja_and_Dima" Path="A_Sereja_and_Dima/A_Sereja_and_Dima.project" Active="No"/>
+  <Project Name="A_Stones_on_the_Table" Path="A_Stones_on_the_Table/A_Stones_on_the_Table.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -29,6 +31,8 @@
       <Project Name="A_Word" ConfigName="Debug"/>
       <Project Name="A_Word_Capitalization" ConfigName="Debug"/>
       <Project Name="A_Magnets" ConfigName="Debug"/>
+      <Project Name="A_Sereja_and_Dima" ConfigName="Debug"/>
+      <Project Name="A_Stones_on_the_Table" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -45,6 +49,8 @@
       <Project Name="A_Word" ConfigName="Release"/>
       <Project Name="A_Word_Capitalization" ConfigName="Release"/>
       <Project Name="A_Magnets" ConfigName="Release"/>
+      <Project Name="A_Sereja_and_Dima" ConfigName="Release"/>
+      <Project Name="A_Stones_on_the_Table" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
