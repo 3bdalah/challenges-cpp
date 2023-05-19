@@ -9,7 +9,9 @@
   <Project Name="A_Team" Path="A_Team/A_Team.project" Active="No"/>
   <Project Name="A_Beautiful_Matrix" Path="A_Beautiful_Matrix/A_Beautiful_Matrix.project" Active="No"/>
   <Project Name="A_Gravity_Flip" Path="A_Gravity_Flip/A_Gravity_Flip.project" Active="No"/>
-  <Project Name="A_Petya_and_Strings" Path="A_Petya_and_Strings/A_Petya_and_Strings.project" Active="Yes"/>
+  <Project Name="A_Petya_and_Strings" Path="A_Petya_and_Strings/A_Petya_and_Strings.project" Active="No"/>
+  <Project Name="A_Word" Path="A_Word/A_Word.project" Active="No"/>
+  <Project Name="A_Word_Capitalization" Path="A_Word_Capitalization/A_Word_Capitalization.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -23,6 +25,8 @@
       <Project Name="A_Beautiful_Matrix" ConfigName="Debug"/>
       <Project Name="A_Gravity_Flip" ConfigName="Debug"/>
       <Project Name="A_Petya_and_Strings" ConfigName="Debug"/>
+      <Project Name="A_Word" ConfigName="Debug"/>
+      <Project Name="A_Word_Capitalization" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -36,6 +40,8 @@
       <Project Name="A_Beautiful_Matrix" ConfigName="Release"/>
       <Project Name="A_Gravity_Flip" ConfigName="Release"/>
       <Project Name="A_Petya_and_Strings" ConfigName="Release"/>
+      <Project Name="A_Word" ConfigName="Release"/>
+      <Project Name="A_Word_Capitalization" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

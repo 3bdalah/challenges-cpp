@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ A_Petya_and_Strings - Debug ]----------"
-	@cd "A_Petya_and_Strings" && "$(MAKE)" -f  "A_Petya_and_Strings.mk"
+	@echo "----------Building project:[ A_Word_Capitalization - Debug ]----------"
+	@cd "A_Word_Capitalization" && "$(MAKE)" -f  "A_Word_Capitalization.mk"
 clean:
-	@echo "----------Cleaning project:[ A_Petya_and_Strings - Debug ]----------"
-	@cd "A_Petya_and_Strings" && "$(MAKE)" -f  "A_Petya_and_Strings.mk" clean
+	@echo "----------Cleaning project:[ A_Word_Capitalization - Debug ]----------"
+	@cd "A_Word_Capitalization" && "$(MAKE)" -f  "A_Word_Capitalization.mk" clean
